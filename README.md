@@ -1,35 +1,6 @@
-# 👋 Hi, I'm Licia
+# 👋 Hi, I'm Licia (Seo Wonbin)
 
-Software & DevOps engineer based in Seoul, South Korea.
-
-I work on Linux, Kubernetes based, cloud-native infrastructure and
-enjoy building reliable systems using open-source technologies.
-
----
-
-## 🛠️ What I Work With
-
-  - Kubernetes: AWS EKS, GCP GKE, On-premise RKE2, Talos Linux
-  - GitOps: ArgoCD, Terraform, Atlantis
-  - Observability: Prometheus, Grafana, Loki, OpenTelemetry
-  - Lots of programming languages, and especially TypeScript
-
----
-
-## 🌱 Interests
-
-- Linux & container platforms
-- Cloud-native and GitOps workflows
-- Observability and system reliability
-- Hybrid & edge environments
-- Open-source ecosystems
-
----
-
-## 🤝 Open to
-
-- Collaboration on cloud-native tooling
-- Open-source contributions
-- Platform engineering discussions
-
-Feel free to reach out or connect on email 🙂
+Software & DevOps engineer passionate about Linux, cloud-native infrastructure,
+Kubernetes, GitOps and observability. I enjoy building reliable platforms with
+open‑source tools. Always open to collaboration on interesting projects — feel
+free to connect!
